@@ -39,6 +39,8 @@ Client Features
 > - The Player playing on the **Minecraft Server** can send the screenshot to themselves just by running the client
 and typing ```/ccxlocationnote <Custom_Word_Of_Your_Choice> <IncludeScreenshot:true||false>```
 
+![Server Starting Screenshot!](https://i.imgur.com/ohqi3OA.png "Server Starting")
+
 Discord Bot Features
 --------------------
 > - To connect use ```/ccxdiscordconnect``` Generates a code for you to direct message to the Discord Bot
