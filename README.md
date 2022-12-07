@@ -7,7 +7,7 @@ Not to worry now you can run your minecraft server **decentralized** (not really
 Features
 --------
 
-> - Run you **Minecraft Server** anywhere anytime 
+> - Run your **Minecraft Server** anywhere anytime 
 > - You can start the minecraft server and anyone else with the client can join the server
 > - In case a server goes down (*Crash?/Accidental?)
 > - Other clients can always start the server backup up
