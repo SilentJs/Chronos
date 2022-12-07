@@ -1,5 +1,7 @@
+![Chronos Logo!](blob:https://imgur.com/bfe3b112-efa3-4d3f-940a-586e30773404 "Chronos Logo")
+
 # Chronos
-______________________________________________________________________________________________________________________________
+
 So are you a group of friends looking for the perfect minecraft hosting?
 Not to worry now you can run your minecraft server **decentralized** (not really)
 
@@ -17,9 +19,17 @@ Features
 > - Includes a **Discord Bot** that has plenty of features
 > - Includes a custom **Chronos** Plugin for the Server
 
+Server Usage
+-----------
+> - The server code can be hosted on replit
+> - Or on a Raspberry PI
+> - Or can be directly hosted by the client and updated on a database ***(Feature Comming Soon! Requires a MongoDB link)***
+> - A Ngrok Authtoken is required to be selected 
+> - A **Drive Refresh Token needs** to be set every 2/3 days (*Takes 1 minute to do*)
+> - The **Drive Account** should be of the account you want to store the server files in
+
 Client Features 
 ---------------
-
 
 > - Server jar **code injection** protection
 > - Server file modification leads to immediate **Server Crash**, With a warning message (***Server Files are being modified***)
@@ -27,5 +37,16 @@ Client Features
 > - Clients running the minecraft server can join the **Minecraft Server** by typing a custom word/letter (*Literally*)
 > - The Client shows the stats of the active **Server** (*TPS, CPU Usage, RAM, Session ID etc*)
 > - The Client automatically shuts down upon disconnection from the Central Server
-> - The Player playing on the **Minecraft Server** can save the location coordinates with screenshot just by running the client
+> - The Player playing on the **Minecraft Server** can send the screenshot to themselves just by running the client
 and typing ```/ccxlocationnote <Custom_Word_Of_Your_Choice> <IncludeScreenshot:true||false>```
+
+Discord Bot Features
+--------------------
+> - To connect use ```/ccxdiscordconnect``` Generates a code for you to direct message to the Discord Bot
+> - After connection you can use other commands which needs a **Discord Connect** such as ```/ccxlocationnote```
+> - Shows the **Live Stats** of the embed in a embed, in the selected channel
+
+Planned Upcoming
+----------------
+
+> - **GUI** Admin Panel to control the server
