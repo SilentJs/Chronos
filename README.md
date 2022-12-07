@@ -1,4 +1,4 @@
-![Chronos Logo!](blob:https://imgur.com/bfe3b112-efa3-4d3f-940a-586e30773404 "Chronos Logo")
+![Chronos Logo!](https://i.imgur.com/Ily9243.png "Chronos Logo")
 
 # Chronos
 
