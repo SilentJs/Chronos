@@ -1,4 +1,5 @@
 ![Chronos Logo!](https://i.imgur.com/Ily9243.png "Chronos Logo")
+________________________________________________________________
 
 So are you a group of friends looking for the perfect minecraft hosting?
 Not to worry now you can run your minecraft server **decentralized** (not really)
