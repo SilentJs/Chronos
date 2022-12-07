@@ -9,8 +9,8 @@ Features
 
 > - Run your **Minecraft Server** anywhere anytime 
 > - You can start the minecraft server and anyone else with the client can join the server
-> - In case a server goes down (*Crash?/Accidental?)
-> - Other clients can always start the server backup up
+> - In case a server goes down (*Crash?/Accidental?*)
+> - Other clients can always start the server back on from the last backup
 > - The server backup time can adjusted to your **needs** (*Default 1 backup per 10 Minutes*)
 > - Other clients running the **Minecraft Server** cannot access the console without a *admin password*
 > - In case of a server shutdown, if no shiftclient specified it shifts to a random client available
